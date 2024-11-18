@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "typeRoots": ["./type-overrides.d.ts"],
     "allowJs": false,
     "module": "ESNext",
     "target": "es2022",
