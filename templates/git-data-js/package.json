@@ -16,7 +16,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "octotask": "^13.0.1"
+    "octotask": "^1.1.1"
   },
   "devDependencies": {
     "jest": "^29.0.0",
