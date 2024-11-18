@@ -1,6 +1,6 @@
 {
   "name": "create-octotask-app",
-  "version": "0.0.0-development",
+  "version": "5.1.0",
   "description": "Create a Octotask app",
   "bin": {
     "create-octotask-app": "./bin/create-octotask-app.js",
@@ -26,7 +26,6 @@
   "keywords": [
     "octotask"
   ],
-  "author": "Brandon Keepers",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.2.0",
